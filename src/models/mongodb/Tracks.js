@@ -18,7 +18,7 @@ const TracksScheme = new mongoose.Schema(
         },
       },
       artist: {
-        name: {
+        nameID: {
           type: String,
         },
         nickaname: {
